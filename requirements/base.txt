@@ -1,0 +1,43 @@
+# App requirements
+aiofiles==0.3.1
+aiohttp==2.3.1
+aiodns==1.1.1
+certifi==2017.7.27.1
+chardet==3.0.4
+httptools==0.0.9
+idna==2.6
+inflection==0.3.1
+jsl==0.2.4
+jsonpatch==1.16
+jsonpointer==1.12
+jsonschema==2.6.0
+Markdown==2.4
+PyJWT==1.5.3
+python-http-client==3.0.0
+python-jsonschema-objects==0.2.2
+requests==2.18.4
+sanic==0.6.0
+six==1.11.0
+ujson==1.35
+urllib3==1.22
+uvloop==0.8.1
+websockets==3.4
+aioredis==0.3.3
+python-dateutil==2.6.1
+simple-crypt==4.1.7
+
+# Db
+sqlalchemy
+alembic
+psycopg2
+aiopg
+sqlalchemy-utils==0.32.19
+
+# Semilimes tools
+ssolib>=0.1.9
+sl-mqlib>=0.1.5
+
+# Services requirements
+premailer==3.1.1
+godaddypy==2.2.5
+sendgrid==5.2.0

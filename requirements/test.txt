@@ -1,0 +1,7 @@
+-r ./base.txt
+
+pytest
+pytest-mock
+pytest-sanic
+pytest-redis
+pytest-asyncio
