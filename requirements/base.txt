@@ -16,7 +16,7 @@ PyJWT==1.5.3
 python-http-client==3.0.0
 python-jsonschema-objects==0.2.2
 requests==2.18.4
-sanic==0.6.0
+sanic==20.12.6
 six==1.11.0
 ujson==1.35
 urllib3==1.22
