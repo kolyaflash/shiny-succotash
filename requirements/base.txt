@@ -2,7 +2,7 @@
 aiofiles==0.3.1
 aiohttp==3.7.4
 aiodns==1.1.1
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 httptools==0.0.9
 idna==2.6
